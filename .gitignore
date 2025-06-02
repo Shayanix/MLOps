@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+02 - Experiment Tracking/homework/output/*.pkl
+data/*.parquet

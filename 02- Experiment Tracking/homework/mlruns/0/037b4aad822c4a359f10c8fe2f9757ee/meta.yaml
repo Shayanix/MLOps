@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLOps/02-%20Experiment%20Tracking/homework/mlruns/0/037b4aad822c4a359f10c8fe2f9757ee/artifacts
+end_time: 1748287011979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 037b4aad822c4a359f10c8fe2f9757ee
+run_name: charming-foal-78
+run_uuid: 037b4aad822c4a359f10c8fe2f9757ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748286837695
+status: 3
+tags: []
+user_id: Shayan
